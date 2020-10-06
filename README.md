@@ -13,5 +13,5 @@
 ```
 Now it's just login into your Virtual Machine using the user root and the password you wrote in the third step.
 
-## Get in contact
-If you have any doubt just contact me by Discord "Eldremor#0001".
+## Contributing
+If you find error please tell me on my [Discord Server](https://discord.gg/SbFUjMw) that I will fix it. I'm new at coding so please be patient.
