@@ -7,7 +7,7 @@
 ## Língua 🌐
 
 * <img src="https://f.carlosdorelli.com.br/img/flags/br.png" alt="Bandeira do Brasil" width="25" height="15"> Português Brasileiro (atual)
-* <img src="https://f.carlosdorelli.com.br/img/flags/usa.png" alt="Bandeira dos Estados Unidos" width="25" height="15"> [English](/README.md) 
+* <img src="https://f.carlosdorelli.com.br/img/flags/usa.png" alt="Bandeira dos Estados Unidos" width="25" height="15"> [English](https://github.com/carlosdorelli/GCloud-SSH-Login) 
 
 
 ## GCloud SSH Login ☁
@@ -42,4 +42,4 @@ service sshd restart
 https://youtu.be/dVslkCrMr0Y
 
 ## Contribua 😉
-Se você encontrar algum erro é só me informar no Discord (Carlos Dorelli#9932) que eu arrumo.
+Se você encontrar algum erro é só me informar no Discord (**Carlos Dorelli#9932**) que eu arrumo.

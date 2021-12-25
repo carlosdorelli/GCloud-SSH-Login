@@ -40,4 +40,4 @@ service sshd restart
 https://youtu.be/dVslkCrMr0Y
 
 ## Contributing 😉
-If you find any error please tell me on my Discord (Carlos Dorelli#9932) that I will fix it.
+If you find any error please tell me on my Discord (**Carlos Dorelli#9932**) that I will fix it.
