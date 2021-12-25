@@ -1,8 +1,19 @@
-# [GCloud SSH Login](https://console.cloud.google.com/?hl=pt-BR)
+<p align="center">
+  <a title="Google CLoud" href="https://console.cloud.google.com" target="_blank">
+    <img src="https://logosmarcas.net/wp-content/uploads/2021/03/Google-Cloud-Logo.png" width="400" alt="Google Cloud"/>
+  </a>
+</p>
 
->This is the command list necessary to permit root SSH Login in your Ubuntu server (any version) hosted in GCloud Plataform.
+## Language 🌐
 
-## How to use it
+* <img src="https://f.carlosdorelli.com.br/img/flags/usa.png" alt="USA Flag" width="25" height="15"> English (current)
+* <img src="https://f.carlosdorelli.com.br/img/flags/br.png" alt="USA Flag" width="25" height="15"> [Português Brasileiro](/README.PT-BR.md) 
+
+## GCloud SSH Login ☁
+
+A list of necessary commands to allow root SSH login in your GCloud Plataform VM.
+
+## How to use it 🤔
 ```sh
 1. Access your SSH Terminal via GCloud Plataform
 2. Type "sudo su root" that will log you into root
@@ -14,7 +25,7 @@
 ```
 Now it's just login into your Virtual Machine using the user root and the password you wrote in the third step.
 
-## Fast Copy and Paste
+## Fast Copy and Paste ⌨
 ```sh
 sudo su root
 passwd root
@@ -24,8 +35,8 @@ PermitRootLogin yes
 PasswordAuthentication yes
 service sshd restart
 ```
-## Watch it
+## Watch it 🎥
 https://youtu.be/dVslkCrMr0Y
 
-## Contributing
-If you find error please tell me on my [Discord Server](https://discord.gg/SbFUjMw) that I will fix it. I'm new at coding so please be patient.
+## Contributing 😉
+If you find any error please tell me on my Discord (Carlos Dorelli#9932) that I will fix it.
