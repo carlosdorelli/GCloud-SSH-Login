@@ -24,6 +24,8 @@ PermitRootLogin yes
 PasswordAuthentication yes
 service sshd restart
 ```
+## Watch it
+https://youtu.be/dVslkCrMr0Y
 
 ## Contributing
 If you find error please tell me on my [Discord Server](https://discord.gg/SbFUjMw) that I will fix it. I'm new at coding so please be patient.
