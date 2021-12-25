@@ -7,7 +7,7 @@
 ## Language 🌐
 
 * <img src="https://f.carlosdorelli.com.br/img/flags/usa.png" alt="USA Flag" width="25" height="15"> English (current)
-* <img src="https://f.carlosdorelli.com.br/img/flags/br.png" alt="USA Flag" width="25" height="15"> [Português Brasileiro](/README.PT-BR.md) 
+* <img src="https://f.carlosdorelli.com.br/img/flags/br.png" alt="Brazil Flag" width="25" height="15"> [Português Brasileiro](/README.PT-BR.md) 
 
 ## GCloud SSH Login ☁
 
@@ -30,11 +30,12 @@ Now it's just login into your Virtual Machine using the user root and the passwo
 sudo su root
 passwd root
 nano /etc/ssh/sshd_config
-# Add these two lines below ListenAdress
+# Add these two lines below #ListenAddress ::
 PermitRootLogin yes
 PasswordAuthentication yes
 service sshd restart
 ```
+
 ## Watch it 🎥
 https://youtu.be/dVslkCrMr0Y
 
