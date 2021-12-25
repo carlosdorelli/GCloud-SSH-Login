@@ -14,5 +14,16 @@
 ```
 Now it's just login into your Virtual Machine using the user root and the password you wrote in the third step.
 
+## Fast Copy and Paste
+```sh
+sudo su root
+passwd root
+nano /etc/ssh/sshd_config
+# Add these two lines below ListenAdress
+PermitRootLogin yes
+PasswordAuthentication yes
+service sshd restart
+```
+
 ## Contributing
 If you find error please tell me on my [Discord Server](https://discord.gg/SbFUjMw) that I will fix it. I'm new at coding so please be patient.
