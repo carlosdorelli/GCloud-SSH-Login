@@ -1,19 +1,14 @@
-<p align="center">
-  <a title="Google CLoud" href="https://console.cloud.google.com" target="_blank">
-    <img src="https://logosmarcas.net/wp-content/uploads/2021/03/Google-Cloud-Logo.png" width="400" alt="Google Cloud"/>
-  </a>
-</p>
-
-## Language 🌐
-
-* <img src="https://f.carlosdorelli.com.br/img/flags/usa.png" alt="USA Flag" width="25" height="15"> English (current)
-* <img src="https://f.carlosdorelli.com.br/img/flags/br.png" alt="Brazil Flag" width="25" height="15"> [Português Brasileiro](/README.PT-BR.md) 
-
-## GCloud SSH Login ☁
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+![Maintainer](https://img.shields.io/badge/maintainer-carlosdorelli-blue)
+[![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
+[![GitLab last commit](https://badgen.net/gitlab/last-commit/NickBusey/HomelabOS/)](https://gitlab.com/NickBusey/HomelabOS/-/commits)
+[![Discord](https://img.shields.io/discord/984111282556903544.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/Ew2MdZEMzz)
 
 A list of necessary commands to allow root SSH login in your GCloud Plataform VM.
 
-## How to use it 🤔
+---
+
+## Let's go 😎
 ```sh
 1. Access your SSH Terminal via GCloud Plataform
 2. Type "sudo su root" that will log you into root
@@ -24,6 +19,8 @@ A list of necessary commands to allow root SSH login in your GCloud Plataform VM
 7. So then we restart the sshd service and it's done - "service sshd restart"
 ```
 Now it's just login into your Virtual Machine using the user root and the password you wrote in the third step.
+
+---
 
 ## Fast Copy and Paste ⌨
 ```sh
@@ -36,8 +33,7 @@ PasswordAuthentication yes
 service sshd restart
 ```
 
-## Watch it 🎥
-https://youtu.be/dVslkCrMr0Y
-
-## Contributing 😉
-If you find any error please tell me on my Discord (**Carlos Dorelli#9932**) that I will fix it.
+---
+  
+## Thanks 😉
+If you find any error please tell me on my Discord (**Carlos Dorelli#8440**) that I will fix it.
